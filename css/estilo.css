@@ -2,7 +2,7 @@
     padding: 0;    
     border: border-box;    
 }
-
+.logo{width: 50px;}
 /*FLEXBOX*/
 header,ul,footer{display: flex;}
 /*MEDIAQUERIE*/
@@ -17,7 +17,7 @@ header,ul,footer{display: flex;}
 }
 /*TABLET*/
 @media only screen and (min-width: 769px) and (max-width: 1023px){
-    body{background-color: rgb(30, 51, 238);}
+    
 }
 /*DESKTOP*/
 @media only screen and (min-width: 1024px){
